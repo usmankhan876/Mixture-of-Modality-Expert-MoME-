@@ -1,9 +1,3 @@
-Great — I understand exactly what you’re building: a **clean, reproducible research pipeline wrapper around nnU-Net + MoME experiments on BraTS (MS/brain tumor segmentation data)** with dataset conversion, validation, preprocessing, and training orchestration.
-
-Below is everything you can directly use for your GitHub.
-
----
-
 # 🧠 GitHub Repository Description (Main README Intro)
 
 ### 🔷 Mixture-of-Modality Experts (MoME) — BraTS nnU-Net Pipeline
